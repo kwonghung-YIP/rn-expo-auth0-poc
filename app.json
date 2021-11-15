@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "oauth0-login-poc",
+    "slug": "oauth0-login-poc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "scheme": "exp"
+  },
+  "name": "oauth0-login-poc"
+}
